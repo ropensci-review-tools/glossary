@@ -46,3 +46,5 @@ push, push,, en el contexto de git
 unit tests, tests unitarios,, 
 badge, etiqueta,,
 branch,rama,, en el contexto de git
+deprecated, obsoleto, , 
+defunct, caduco, , 
