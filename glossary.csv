@@ -45,6 +45,11 @@ issue, issue,, en el contexto de git
 push, push,, en el contexto de git
 unit tests, tests unitarios,, 
 badge, etiqueta,,
-branch,rama,, en el contexto de git
 deprecated, obsoleto, , 
 defunct, caduco, , 
+branch,rama,, en el contexto de git
+cheatsheet, guía rápida,,
+cheat sheet, guía rápida,,
+r universe, r universe,,
+runiverse, runiverse,,
+r-universe, r-universe,,
