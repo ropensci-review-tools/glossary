@@ -40,11 +40,12 @@ stack,pila,,
 stack frame,marco de pila,,
 best practices, buenas prácticas,,
 test, test,, en el contexto de test unitarios
-branch, branch,, en el contexto de git
 issue, issue,, en el contexto de git
 push, push,, en el contexto de git
 unit tests, tests unitarios,, 
 badge, etiqueta,,
+deprecated, obsoleto, , 
+defunct, caduco, , 
 branch,rama,, en el contexto de git
 cheatsheet, guía rápida,,
 cheat sheet, guía rápida,,
